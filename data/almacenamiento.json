@@ -1,0 +1,76 @@
+[
+    {
+        "idUsuario": 1,
+        "cantidadArchivos": 3,
+        "carpetas":
+        [
+            {
+                "idCarpeta": 1,
+                "nombreCarpeta": "POO",
+                "carpetas":[2],
+                "Archivos": [1, 2]
+            },
+            {
+                "idCarpeta": 2,
+                "nombreCarpeta": "Tareas",
+                "carpetas":[],
+                "Archivos": [3]
+            }
+        ],
+        "archivos":
+        [
+            {
+                "idArchivo": 1,
+                "nombreArchivo": "Clase Final",
+                "tipoArchivo": "Video",
+                "url": ""
+            },
+            {
+                "idArchivo": 2,
+                "nombreArchivo": "Foto Final",
+                "tipoArchivo": "Foto",
+                "url": ""
+            },
+            {
+                "idArchivo": 3,
+                "nombreArchivo": "Informe",
+                "tipoArchivo": "Documento Writer",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "idUsuario": 2,
+        "cantidadArchivos": 2,
+        "carpetas":
+        [
+            {
+                "idCarpeta": 1,
+                "nombreCarpeta": "Memorias",
+                "carpetas":[],
+                "Archivos": [2]
+            },
+            {
+                "idCarpeta": 2,
+                "nombreCarpeta": "Libros",
+                "carpetas":[],
+                "Archivos": [1]
+            }
+        ],
+        "archivos":
+        [
+            {
+                "idArchivo": 1,
+                "nombreArchivo": "Libro 2",
+                "tipoArchivo": "Documento PDF",
+                "url": ""
+            },
+            {
+                "idArchivo": 2,
+                "nombreArchivo": "Sello",
+                "tipoArchivo": "Foto",
+                "url": ""
+            }
+        ]
+    }
+]
